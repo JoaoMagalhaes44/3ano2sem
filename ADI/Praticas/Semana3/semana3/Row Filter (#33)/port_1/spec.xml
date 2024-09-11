@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="spec.xml">
+    <entry key="spec_name" type="xstring" value="default"/>
+    <entry key="number_columns" type="xint" value="4"/>
+    <config key="column_spec_0">
+        <entry key="column_name" type="xstring" value="bar_name"/>
+        <config key="element_names">
+            <entry key="array-size" type="xint" value="0"/>
+        </config>
+        <config key="column_type">
+            <entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+        </config>
+        <config key="column_domain">
+            <config key="possible_values">
+                <entry key="array-size" type="xint" value="21"/>
+                <config key="0">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="100 percent"/>
+                    </config>
+                </config>
+                <config key="1">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Camino Verde P., Balao, Guayas, 2012"/>
+                    </config>
+                </config>
+                <config key="2">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Chanchamayo, Pichanadi, 2012, 60hr c., b.13092"/>
+                    </config>
+                </config>
+                <config key="3">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Conacado, 2012, 120hr c.batch 13092"/>
+                    </config>
+                </config>
+                <config key="4">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Ecuador"/>
+                    </config>
+                </config>
+                <config key="5">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Ecuador Puristique"/>
+                    </config>
+                </config>
+                <config key="6">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="El Oro, Hacienda de Oro"/>
+                    </config>
+                </config>
+                <config key="7">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Elegant Asian Blend&quot;, Vietnam, India"/>
+                    </config>
+                </config>
+                <config key="8">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="IL100, H. San Jose, batch NDL3A01"/>
+                    </config>
+                </config>
+                <config key="9">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Island Growers, 2012, 120hr c., batch 13080"/>
+                    </config>
+                </config>
+                <config key="10">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Java, Indonesian Black"/>
+                    </config>
+                </config>
+                <config key="11">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Los Rios, H. Iara, 2012, 120hr c., batch 13092"/>
+                    </config>
+                </config>
+                <config key="12">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Los Rios, Rancho Grande 2004/2007"/>
+                    </config>
+                </config>
+                <config key="13">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="One Hundred"/>
+                    </config>
+                </config>
+                <config key="14">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Principe, Sao Tome &amp; Principe"/>
+                    </config>
+                </config>
+                <config key="15">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Raw"/>
+                    </config>
+                </config>
+                <config key="16">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Sambirano Valley, Le 100%"/>
+                    </config>
+                </config>
+                <config key="17">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Sang Yum Coop"/>
+                    </config>
+                </config>
+                <config key="18">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Somia Plantation, 2012"/>
+                    </config>
+                </config>
+                <config key="19">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="Venezuela"/>
+                    </config>
+                </config>
+                <config key="20">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <config key="org.knime.core.data.def.StringCell">
+                        <entry key="StringCell" type="xstring" value="one hundred"/>
+                    </config>
+                </config>
+            </config>
+        </config>
+        <config key="column_properties"/>
+        <config key="meta_data"/>
+    </config>
+    <config key="column_spec_1">
+        <entry key="column_name" type="xstring" value="cocoa_percent"/>
+        <config key="element_names">
+            <entry key="array-size" type="xint" value="0"/>
+        </config>
+        <config key="column_type">
+            <entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+        </config>
+        <config key="column_domain">
+            <config key="lower_bound">
+                <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+                <config key="org.knime.core.data.def.DoubleCell">
+                    <entry key="DoubleCell" type="xdouble" value="42.0"/>
+                </config>
+            </config>
+            <config key="upper_bound">
+                <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+                <config key="org.knime.core.data.def.DoubleCell">
+                    <entry key="DoubleCell" type="xdouble" value="100.0"/>
+                </config>
+            </config>
+        </config>
+        <config key="column_properties"/>
+        <config key="meta_data"/>
+    </config>
+    <config key="column_spec_2">
+        <entry key="column_name" type="xstring" value="rating"/>
+        <config key="element_names">
+            <entry key="array-size" type="xint" value="0"/>
+        </config>
+        <config key="column_type">
+            <entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+        </config>
+        <config key="column_domain">
+            <config key="lower_bound">
+                <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+                <config key="org.knime.core.data.def.DoubleCell">
+                    <entry key="DoubleCell" type="xdouble" value="1.0"/>
+                </config>
+            </config>
+            <config key="upper_bound">
+                <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+                <config key="org.knime.core.data.def.DoubleCell">
+                    <entry key="DoubleCell" type="xdouble" value="4.0"/>
+                </config>
+            </config>
+        </config>
+        <config key="column_properties"/>
+        <config key="meta_data"/>
+    </config>
+    <config key="column_spec_3">
+        <entry key="column_name" type="xstring" value="prediction"/>
+        <config key="element_names">
+            <entry key="array-size" type="xint" value="0"/>
+        </config>
+        <config key="column_type">
+            <entry key="cell_class" type="xstring" value="org.knime.core.data.def.BooleanCell"/>
+        </config>
+        <config key="column_domain">
+            <config key="lower_bound">
+                <entry key="datacell" type="xstring" value="org.knime.core.data.def.BooleanCell"/>
+                <config key="org.knime.core.data.def.BooleanCell">
+                    <entry key="BooleanCell" type="xboolean" value="false"/>
+                </config>
+            </config>
+            <config key="upper_bound">
+                <entry key="datacell" type="xstring" value="org.knime.core.data.def.BooleanCell"/>
+                <config key="org.knime.core.data.def.BooleanCell">
+                    <entry key="BooleanCell" type="xboolean" value="true"/>
+                </config>
+            </config>
+            <config key="possible_values">
+                <entry key="array-size" type="xint" value="2"/>
+                <config key="0">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.BooleanCell"/>
+                    <config key="org.knime.core.data.def.BooleanCell">
+                        <entry key="BooleanCell" type="xboolean" value="false"/>
+                    </config>
+                </config>
+                <config key="1">
+                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.BooleanCell"/>
+                    <config key="org.knime.core.data.def.BooleanCell">
+                        <entry key="BooleanCell" type="xboolean" value="true"/>
+                    </config>
+                </config>
+            </config>
+        </config>
+        <config key="column_properties"/>
+        <config key="meta_data"/>
+    </config>
+</config>

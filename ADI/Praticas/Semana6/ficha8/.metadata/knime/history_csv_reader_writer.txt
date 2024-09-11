@@ -1,0 +1,5 @@
+/Users/jony/Desktop/ADI/Praticas/Semana6/ficha8/wine quality (train+test)/winequality-white test.csv
+/Users/jony/Desktop/ADI/Praticas/Semana6/ficha8/wine quality (train+test)/winequality-red train.csv
+/Users/jony/Desktop/ADI/Praticas/Semana6/ficha8/wine quality (train+test)/winequality-white train.csv
+/Users/jony/Desktop/ADI/Praticas/Semana6/ficha8/wine quality (train+test)/winequality-red test.csv
+/Users/jony/Desktop/ADI/Praticas/Semana6/ficha8/wine quality (new)/winequality-red new.csv

@@ -1,0 +1,3 @@
+/Users/jony/Desktop/ADI/Praticas/Semana4/ficha3/meteorologia/meteorologia_2021.csv
+/Users/jony/Desktop/ADI/Praticas/Semana4/ficha3/meteorologia/metricas_2020_meteorologia.csv
+/Users/jony/Desktop/ADI/Praticas/Semana4/ficha3/meteorologia/descricao_2020_meteorologia.csv

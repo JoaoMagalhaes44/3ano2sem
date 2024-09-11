@@ -1,0 +1,5 @@
+/titanic_dataset/titanic_dataset.xlsx
+/Users/jony/Desktop/ADI/Praticas/titanic_dataset/titanic_dataset.xlsx
+/Users/jony/Desktop/ADI/Praticas/titanic_dataset
+/Users/jony/Desktop/ADI/Praticas
+/Users/jony/Desktop/ADI
